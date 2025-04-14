@@ -3,6 +3,7 @@
 	"author": "Kavya",
 	"description": "A boilerplate for a freeCodeCamp project.",
 	"keywords":["freecodecamp","boilerplate","npm"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
